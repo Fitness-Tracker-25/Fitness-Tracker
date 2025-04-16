@@ -1,5 +1,6 @@
 # Fitness Tracker
-
+# Ernesto Rodriguez
+# Steven Luque
 ## App Overview
 
 **Description:**  
