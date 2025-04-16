@@ -1,6 +1,7 @@
 # Fitness Tracker
 # Ernesto Rodriguez
 # Steven Luque
+
 ## App Overview
 
 **Description:**  
@@ -40,9 +41,9 @@ The app successfully implements core functionality like tracking steps, displayi
 
 ## Navigation Flows
 
-- Launch → Main Screen
-- Tap “Start” → Timer begins, progress ring updates
-- Tap “Reset” → Timer resets, step count resets
+- Launch → Main Screen  
+- Tap “Start” → Timer begins, progress ring updates  
+- Tap “Reset” → Timer resets, step count resets  
 
 Note: All navigation occurs on a single view. No tab or multi-screen navigation needed.
 
@@ -85,6 +86,10 @@ _Showcasing the current build:_
 ![Step Count Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM5c3cyb2d2OGYwc2xwdGR5N255dnhrOHZwZDB4ZHZ2NTQ0djRzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CqMZobWCpPRE50pHVz/giphy.gif)
 
 🎥 [Loom Video Walkthrough](https://www.loom.com/share/162460caac5c4981897606e6c7d7f976?sid=3aa692a4-ab99-4fb9-a12f-c4c299bb31e8)
+
+![History View Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnR1MDB4NW9rbTNidHUwcjd6bTlycDgyOXVobGN3dGhoZnNxa3gzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRCkqW7wYogMak1qbd/giphy.gif)
+
+🎥 [Loom History Walkthrough](https://www.loom.com/share/fd6b66281646410bbfb9585779f6d45b?sid=50ff9699-c09f-46bb-bcea-0289038a9d97)
 
 ---
 
